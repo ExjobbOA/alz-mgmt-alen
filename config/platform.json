@@ -14,5 +14,5 @@
   "MANAGEMENT_GROUP_ID": "c785e463-29cf-46e6-9b1d-ae17db0a6ac4",
   "LOCATION_SECONDARY": "northeurope",
   "ENABLE_TELEMETRY": "true",
-  "SECURITY_CONTACT_EMAIL": ""
+  "SECURITY_CONTACT_EMAIL": "alen@example.com"
 }
